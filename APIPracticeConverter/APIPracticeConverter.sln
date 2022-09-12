@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPracticeConverter", "APIPracticeConverter\APIPracticeConverter.csproj", "{BCCC6263-71F2-40DE-B384-CF990B61270D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCC6263-71F2-40DE-B384-CF990B61270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCC6263-71F2-40DE-B384-CF990B61270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCC6263-71F2-40DE-B384-CF990B61270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCC6263-71F2-40DE-B384-CF990B61270D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE60C285-4785-42BD-AD7D-884B82F60DC8}
+	EndGlobalSection
+EndGlobal
